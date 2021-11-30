@@ -21,3 +21,7 @@ elixir name_of_file.exs
 ### Notes
 
  * please close any RAM-eager process (my list is usually Chrome, Firefox, Teams, Spotify), since results collection or the test itself may be RAM-heavy
+
+## TODO
+
+ - [ ] Make this a mix prooject, so dep install can be done once and for all?
